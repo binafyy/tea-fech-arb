@@ -2,7 +2,7 @@
 {
   "name": "tea-fech-arb",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "discription": "tea-fech-arb,Link and development of new tea projects and arb mainnets",
   "type": "module",
   "scripts": {
